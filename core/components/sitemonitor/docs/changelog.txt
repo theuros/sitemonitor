@@ -1,0 +1,9 @@
+pl 1.0
+- rewrite extensions query
+
+Beta 1.1
+- Fixed chunk filenames
+- Fixed chunk template selection
+
+Beta 1.0
+- Initial release

@@ -1,0 +1,1 @@
+<li>[[+name]] <b>[[+version]]</b>-[[+release]]</li>
